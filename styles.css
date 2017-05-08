@@ -1,0 +1,1317 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1400px;
+	 height: 4900px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1400px;
+	 height: 4900px;
+	 z-index:1;
+} 
+
+ #Rectangle1 
+{ 
+	 left: -4px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1407px;
+	 height: 37px;
+	 z-index:2;
+} 
+
+ #Rectangle1copy 
+{ 
+	 left: -4px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 1407px;
+	 height: 85px;
+	 z-index:3;
+} 
+
+ #fh16Logo 
+{ 
+	 left: 585px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 230px;
+	 height: 57px;
+	 z-index:4;
+} 
+
+ #Rectangle2 
+{ 
+	 left: -3px; 
+	 top: 180px; 
+	 position: absolute; 
+	 width: 1406px;
+	 height: 301px;
+	 z-index:5;
+} 
+
+ #mylittlepony 
+{ 
+	 left: 0px; 
+	 top: -28px; 
+	 position: absolute; 
+	 width: 1402px;
+	 height: 995px;
+	 z-index:6;
+} 
+
+ #TransformYourChildsB 
+{ 
+	 left: 452px; 
+	 top: 555px; 
+	 position: absolute; 
+	 width: 496px;
+	 height: 32px;
+	 z-index:7;
+} 
+
+ #Rectangle3 
+{ 
+	 left: 672px; 
+	 top: 613px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 6px;
+	 z-index:8;
+} 
+
+ #Fatheadisthegiftthat 
+{ 
+	 left: 232px; 
+	 top: 648px; 
+	 position: absolute; 
+	 width: 933px;
+	 height: 105px;
+	 z-index:9;
+} 
+
+ #Aprocesssosimplethat 
+{ 
+	 left: 523px; 
+	 top: 981px; 
+	 position: absolute; 
+	 width: 354px;
+	 height: 18px;
+	 z-index:10;
+} 
+
+ #Rectangle3_0 
+{ 
+	 left: 662px; 
+	 top: 951px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 6px;
+	 z-index:11;
+} 
+
+ #Rectangle3copy2 
+{ 
+	 left: 662px; 
+	 top: 881px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 6px;
+	 z-index:12;
+} 
+
+ #HowtoPickthePerfectF 
+{ 
+	 left: 410px; 
+	 top: 887px; 
+	 position: absolute; 
+	 width: 581px;
+	 height: 38px;
+	 z-index:13;
+} 
+
+ #Rectangle3copy 
+{ 
+	 left: 680px; 
+	 top: 1149px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 5px;
+	 z-index:14;
+} 
+
+ #ThereareavarietyofFa 
+{ 
+	 left: 329px; 
+	 top: 1236px; 
+	 position: absolute; 
+	 width: 742px;
+	 height: 18px;
+	 z-index:15;
+} 
+
+ #Onceyouhavethespacep 
+{ 
+	 left: 173px; 
+	 top: 2006px; 
+	 position: absolute; 
+	 width: 1053px;
+	 height: 78px;
+	 z-index:16;
+} 
+
+ #Inadditiontothemainw 
+{ 
+	 left: 183px; 
+	 top: 2463px; 
+	 position: absolute; 
+	 width: 1037px;
+	 height: 48px;
+	 z-index:17;
+} 
+
+ #DidYouKnow 
+{ 
+	 left: 636px; 
+	 top: 2408px; 
+	 position: absolute; 
+	 width: 126px;
+	 height: 18px;
+	 z-index:18;
+} 
+
+ #Rectangle10 
+{ 
+	 left: 169px; 
+	 top: 2181px; 
+	 position: absolute; 
+	 width: 1064px;
+	 height: 193px;
+	 z-index:19;
+} 
+
+ #Rectangle10copy 
+{ 
+	 left: 169px; 
+	 top: 2121px; 
+	 position: absolute; 
+	 width: 1064px;
+	 height: 63px;
+	 z-index:20;
+} 
+
+ #Product 
+{ 
+	 left: 236px; 
+	 top: 2145px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 14px;
+	 z-index:21;
+} 
+
+ #DieCutFathead 
+{ 
+	 left: 210px; 
+	 top: 2209px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 14px;
+	 z-index:22;
+} 
+
+ #TransferFathead 
+{ 
+	 left: 207px; 
+	 top: 2271px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 14px;
+	 z-index:23;
+} 
+
+ #FatheadWallMural 
+{ 
+	 left: 200px; 
+	 top: 2333px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 14px;
+	 z-index:24;
+} 
+
+ #Peelandstick 
+{ 
+	 left: 1103px; 
+	 top: 2209px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 14px;
+	 z-index:25;
+} 
+
+ #Transfer 
+{ 
+	 left: 1124px; 
+	 top: 2271px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 14px;
+	 z-index:26;
+} 
+
+ #peelandstick 
+{ 
+	 left: 1104px; 
+	 top: 2333px; 
+	 position: absolute; 
+	 width: 91px;
+	 height: 17px;
+	 z-index:27;
+} 
+
+ #SafeforWalls 
+{ 
+	 left: 393px; 
+	 top: 2145px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 14px;
+	 z-index:28;
+} 
+
+ #layer_29 
+{ 
+	 left: 422px; 
+	 top: 2201px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 21px;
+	 z-index:29;
+} 
+
+ #copy 
+{ 
+	 left: 422px; 
+	 top: 2269px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 21px;
+	 z-index:30;
+} 
+
+ #copy2 
+{ 
+	 left: 422px; 
+	 top: 2330px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 21px;
+	 z-index:31;
+} 
+
+ #copy3 
+{ 
+	 left: 597px; 
+	 top: 2201px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 21px;
+	 z-index:32;
+} 
+
+ #copy3_0 
+{ 
+	 left: 597px; 
+	 top: 2269px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 21px;
+	 z-index:33;
+} 
+
+ #copy3_1 
+{ 
+	 left: 597px; 
+	 top: 2330px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 21px;
+	 z-index:34;
+} 
+
+ #copy4 
+{ 
+	 left: 775px; 
+	 top: 2201px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 21px;
+	 z-index:35;
+} 
+
+ #copy4_0 
+{ 
+	 left: 775px; 
+	 top: 2330px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 21px;
+	 z-index:36;
+} 
+
+ #copy5 
+{ 
+	 left: 954px; 
+	 top: 2201px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 21px;
+	 z-index:37;
+} 
+
+ #copy5_0 
+{ 
+	 left: 954px; 
+	 top: 2330px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 21px;
+	 z-index:38;
+} 
+
+ #Removable 
+{ 
+	 left: 579px; 
+	 top: 2145px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 14px;
+	 z-index:39;
+} 
+
+ #Reusable 
+{ 
+	 left: 764px; 
+	 top: 2145px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 14px;
+	 z-index:40;
+} 
+
+ #AdditionalDecals 
+{ 
+	 left: 913px; 
+	 top: 2145px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 14px;
+	 z-index:41;
+} 
+
+ #Installation 
+{ 
+	 left: 1110px; 
+	 top: 2145px; 
+	 position: absolute; 
+	 width: 70px;
+	 height: 14px;
+	 z-index:42;
+} 
+
+ #Rectangle11copy7 
+{ 
+	 left: -184px; 
+	 top: 2119px; 
+	 position: absolute; 
+	 width: 886px;
+	 height: 255px;
+	 z-index:43;
+} 
+
+ #Rectangle11copy8 
+{ 
+	 left: -362px; 
+	 top: 2119px; 
+	 position: absolute; 
+	 width: 886px;
+	 height: 255px;
+	 z-index:44;
+} 
+
+ #Rectangle11copy9 
+{ 
+	 left: -538px; 
+	 top: 2119px; 
+	 position: absolute; 
+	 width: 886px;
+	 height: 255px;
+	 z-index:45;
+} 
+
+ #Rectangle11copy10 
+{ 
+	 left: -713px; 
+	 top: 2119px; 
+	 position: absolute; 
+	 width: 886px;
+	 height: 255px;
+	 z-index:46;
+} 
+
+ #Shape6 
+{ 
+	 left: 170px; 
+	 top: 2120px; 
+	 position: absolute; 
+	 width: 1060px;
+	 height: 253px;
+	 z-index:47;
+} 
+
+ #Shape5 
+{ 
+	 left: 171px; 
+	 top: 2307px; 
+	 position: absolute; 
+	 width: 1060px;
+	 height: 3px;
+	 z-index:48;
+} 
+
+ #Shape1 
+{ 
+	 left: 170px; 
+	 top: 2181px; 
+	 position: absolute; 
+	 width: 1061px;
+	 height: 3px;
+	 z-index:49;
+} 
+
+ #Shape2 
+{ 
+	 left: 170px; 
+	 top: 2243px; 
+	 position: absolute; 
+	 width: 1061px;
+	 height: 4px;
+	 z-index:50;
+} 
+
+ #Shape7 
+{ 
+	 left: 170px; 
+	 top: 2119px; 
+	 position: absolute; 
+	 width: 1062px;
+	 height: 4px;
+	 z-index:51;
+} 
+
+ #Shape8 
+{ 
+	 left: 1229px; 
+	 top: 2120px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 252px;
+	 z-index:52;
+} 
+
+ #Shape4 
+{ 
+	 left: 873px; 
+	 top: 2119px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 254px;
+	 z-index:53;
+} 
+
+ #Rectangle4 
+{ 
+	 left: 59px; 
+	 top: 824px; 
+	 position: absolute; 
+	 width: 1282px;
+	 height: 3px;
+	 z-index:54;
+} 
+
+ #Rectangle4copy 
+{ 
+	 left: 59px; 
+	 top: 4269px; 
+	 position: absolute; 
+	 width: 1282px;
+	 height: 3px;
+	 z-index:55;
+} 
+
+ #Rectangle8 
+{ 
+	 left: 494px; 
+	 top: 1319px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 605px;
+	 z-index:56;
+} 
+
+ #Rectangle5 
+{ 
+	 left: 494px; 
+	 top: 1318px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 316px;
+	 z-index:57;
+} 
+
+ #carslightning 
+{ 
+	 left: 463px; 
+	 top: 1319px; 
+	 position: absolute; 
+	 width: 464px;
+	 height: 329px;
+	 z-index:58;
+} 
+
+ #Rectangle7 
+{ 
+	 left: 753px; 
+	 top: 1334px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 36px;
+	 z-index:59;
+} 
+
+ #MOSTPOPULAR 
+{ 
+	 left: 769px; 
+	 top: 1346px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 13px;
+	 z-index:60;
+} 
+
+ #WallDecals 
+{ 
+	 left: 652px; 
+	 top: 1684px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 18px;
+	 z-index:61;
+} 
+
+ #Rectangle9 
+{ 
+	 left: 682px; 
+	 top: 1719px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 4px;
+	 z-index:62;
+} 
+
+ #Givethecustomersomec 
+{ 
+	 left: 575px; 
+	 top: 1738px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 120px;
+	 z-index:63;
+} 
+
+ #Rectangle6 
+{ 
+	 left: 548px; 
+	 top: 1825px; 
+	 position: absolute; 
+	 width: 300px;
+	 height: 64px;
+	 z-index:64;
+} 
+
+ #LEARNMORE 
+{ 
+	 left: 656px; 
+	 top: 1851px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 13px;
+	 z-index:65;
+} 
+
+ #Rectangle8_0 
+{ 
+	 left: 932px; 
+	 top: 1319px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 605px;
+	 z-index:66;
+} 
+
+ #Rectangle5_0 
+{ 
+	 left: 932px; 
+	 top: 1318px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 316px;
+	 z-index:67;
+} 
+
+ #boybedroom812standou 
+{ 
+	 left: 933px; 
+	 top: 1263px; 
+	 position: absolute; 
+	 width: 406px;
+	 height: 406px;
+	 z-index:68;
+} 
+
+ #Cutouts 
+{ 
+	 left: 1103px; 
+	 top: 1685px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 17px;
+	 z-index:69;
+} 
+
+ #Rectangle9_0 
+{ 
+	 left: 1118px; 
+	 top: 1719px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 4px;
+	 z-index:70;
+} 
+
+ #Givethecustomersomec_0 
+{ 
+	 left: 1013px; 
+	 top: 1738px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 120px;
+	 z-index:71;
+} 
+
+ #Rectangle6_0 
+{ 
+	 left: 986px; 
+	 top: 1805px; 
+	 position: absolute; 
+	 width: 300px;
+	 height: 64px;
+	 z-index:72;
+} 
+
+ #LEARNMORE_0 
+{ 
+	 left: 1094px; 
+	 top: 1831px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 13px;
+	 z-index:73;
+} 
+
+ #Rectangle8_1 
+{ 
+	 left: 56px; 
+	 top: 1319px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 605px;
+	 z-index:74;
+} 
+
+ #Rectangle5_1 
+{ 
+	 left: 56px; 
+	 top: 1318px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 316px;
+	 z-index:75;
+} 
+
+ #BatBmural 
+{ 
+	 left: 60px; 
+	 top: 1255px; 
+	 position: absolute; 
+	 width: 406px;
+	 height: 406px;
+	 z-index:76;
+} 
+
+ #WallMurals 
+{ 
+	 left: 210px; 
+	 top: 1684px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 18px;
+	 z-index:77;
+} 
+
+ #Rectangle9_1 
+{ 
+	 left: 241px; 
+	 top: 1719px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 4px;
+	 z-index:78;
+} 
+
+ #Givethecustomersomec_1 
+{ 
+	 left: 134px; 
+	 top: 1738px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 120px;
+	 z-index:79;
+} 
+
+ #Rectangle6_1 
+{ 
+	 left: 110px; 
+	 top: 1805px; 
+	 position: absolute; 
+	 width: 300px;
+	 height: 64px;
+	 z-index:80;
+} 
+
+ #LEARNMORE_1 
+{ 
+	 left: 218px; 
+	 top: 1831px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 13px;
+	 z-index:81;
+} 
+
+ #ChooseYourProductTyp 
+{ 
+	 left: 522px; 
+	 top: 1170px; 
+	 position: absolute; 
+	 width: 356px;
+	 height: 35px;
+	 z-index:82;
+} 
+
+ #STEP1 
+{ 
+	 left: 645px; 
+	 top: 1102px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 29px;
+	 z-index:83;
+} 
+
+ #Rectangle8_2 
+{ 
+	 left: 56px; 
+	 top: 2893px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 632px;
+	 z-index:84;
+} 
+
+ #Rectangle5_2 
+{ 
+	 left: 56px; 
+	 top: 2892px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 316px;
+	 z-index:85;
+} 
+
+ #pawpatrol 
+{ 
+	 left: 59px; 
+	 top: 2894px; 
+	 position: absolute; 
+	 width: 407px;
+	 height: 407px;
+	 z-index:86;
+} 
+
+ #Kids 
+{ 
+	 left: 242px; 
+	 top: 3235px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 18px;
+	 z-index:87;
+} 
+
+ #Rectangle9_2 
+{ 
+	 left: 241px; 
+	 top: 3266px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 4px;
+	 z-index:88;
+} 
+
+ #FromPAWPatrolandPokm 
+{ 
+	 left: 82px; 
+	 top: 3285px; 
+	 position: absolute; 
+	 width: 356px;
+	 height: 77px;
+	 z-index:89;
+} 
+
+ #Rectangle6_2 
+{ 
+	 left: 110px; 
+	 top: 3421px; 
+	 position: absolute; 
+	 width: 300px;
+	 height: 64px;
+	 z-index:90;
+} 
+
+ #SHOPKIDS 
+{ 
+	 left: 225px; 
+	 top: 3447px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 13px;
+	 z-index:91;
+} 
+
+ #Rectangle8_3 
+{ 
+	 left: 498px; 
+	 top: 2893px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 632px;
+	 z-index:92;
+} 
+
+ #Rectangle5_3 
+{ 
+	 left: 498px; 
+	 top: 2892px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 316px;
+	 z-index:93;
+} 
+
+ #spiderman 
+{ 
+	 left: 499px; 
+	 top: 2847px; 
+	 position: absolute; 
+	 width: 407px;
+	 height: 407px;
+	 z-index:94;
+} 
+
+ #Superheroes 
+{ 
+	 left: 649px; 
+	 top: 3235px; 
+	 position: absolute; 
+	 width: 107px;
+	 height: 22px;
+	 z-index:95;
+} 
+
+ #Rectangle9_3 
+{ 
+	 left: 683px; 
+	 top: 3266px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 4px;
+	 z-index:96;
+} 
+
+ #Ifyourchildrunsaroun 
+{ 
+	 left: 538px; 
+	 top: 3285px; 
+	 position: absolute; 
+	 width: 324px;
+	 height: 98px;
+	 z-index:97;
+} 
+
+ #Rectangle6_3 
+{ 
+	 left: 552px; 
+	 top: 3421px; 
+	 position: absolute; 
+	 width: 300px;
+	 height: 64px;
+	 z-index:98;
+} 
+
+ #SHOPSUPERHEROES 
+{ 
+	 left: 635px; 
+	 top: 3447px; 
+	 position: absolute; 
+	 width: 135px;
+	 height: 13px;
+	 z-index:99;
+} 
+
+ #Rectangle8_4 
+{ 
+	 left: 932px; 
+	 top: 2893px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 632px;
+	 z-index:100;
+} 
+
+ #Rectangle5_4 
+{ 
+	 left: 932px; 
+	 top: 2892px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 316px;
+	 z-index:101;
+} 
+
+ #dallascowboys 
+{ 
+	 left: 933px; 
+	 top: 2892px; 
+	 position: absolute; 
+	 width: 408px;
+	 height: 408px;
+	 z-index:102;
+} 
+
+ #Sports 
+{ 
+	 left: 1108px; 
+	 top: 3236px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 21px;
+	 z-index:103;
+} 
+
+ #Rectangle9_4 
+{ 
+	 left: 1117px; 
+	 top: 3266px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 4px;
+	 z-index:104;
+} 
+
+ #WiththeMLBNBANFLNHLa 
+{ 
+	 left: 974px; 
+	 top: 3285px; 
+	 position: absolute; 
+	 width: 326px;
+	 height: 59px;
+	 z-index:105;
+} 
+
+ #Rectangle6_4 
+{ 
+	 left: 986px; 
+	 top: 3421px; 
+	 position: absolute; 
+	 width: 300px;
+	 height: 64px;
+	 z-index:106;
+} 
+
+ #SHOPSPORTS 
+{ 
+	 left: 1090px; 
+	 top: 3447px; 
+	 position: absolute; 
+	 width: 91px;
+	 height: 13px;
+	 z-index:107;
+} 
+
+ #Fatheadbecameahouseh 
+{ 
+	 left: 172px; 
+	 top: 2729px; 
+	 position: absolute; 
+	 width: 1053px;
+	 height: 78px;
+	 z-index:108;
+} 
+
+ #Feelfreetocontactusv 
+{ 
+	 left: 477px; 
+	 top: 4405px; 
+	 position: absolute; 
+	 width: 440px;
+	 height: 19px;
+	 z-index:109;
+} 
+
+ #Questions 
+{ 
+	 left: 622px; 
+	 top: 4336px; 
+	 position: absolute; 
+	 width: 150px;
+	 height: 31px;
+	 z-index:110;
+} 
+
+ #Rectangle11 
+{ 
+	 left: -1px; 
+	 top: 4499px; 
+	 position: absolute; 
+	 width: 1404px;
+	 height: 402px;
+	 z-index:111;
+} 
+
+ #ChooseYourProductCat 
+{ 
+	 left: 493px; 
+	 top: 2654px; 
+	 position: absolute; 
+	 width: 414px;
+	 height: 35px;
+	 z-index:112;
+} 
+
+ #STEP2 
+{ 
+	 left: 645px; 
+	 top: 2586px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 29px;
+	 z-index:113;
+} 
+
+ #Rectangle8_5 
+{ 
+	 left: 276px; 
+	 top: 3561px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 632px;
+	 z-index:114;
+} 
+
+ #Rectangle5_5 
+{ 
+	 left: 276px; 
+	 top: 3560px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 316px;
+	 z-index:115;
+} 
+
+ #vadername 
+{ 
+	 left: 265px; 
+	 top: 3537px; 
+	 position: absolute; 
+	 width: 431px;
+	 height: 431px;
+	 z-index:116;
+} 
+
+ #PersonalizedNames 
+{ 
+	 left: 396px; 
+	 top: 3903px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 18px;
+	 z-index:117;
+} 
+
+ #Rectangle9_5 
+{ 
+	 left: 461px; 
+	 top: 3934px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 4px;
+	 z-index:118;
+} 
+
+ #Youcangiveyourchilds 
+{ 
+	 left: 304px; 
+	 top: 3953px; 
+	 position: absolute; 
+	 width: 352px;
+	 height: 38px;
+	 z-index:119;
+} 
+
+ #Rectangle6_5 
+{ 
+	 left: 330px; 
+	 top: 4089px; 
+	 position: absolute; 
+	 width: 300px;
+	 height: 64px;
+	 z-index:120;
+} 
+
+ #SHOPKIDS_0 
+{ 
+	 left: 445px; 
+	 top: 4115px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 13px;
+	 z-index:121;
+} 
+
+ #Rectangle8_6 
+{ 
+	 left: 718px; 
+	 top: 3561px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 632px;
+	 z-index:122;
+} 
+
+ #Rectangle5_6 
+{ 
+	 left: 718px; 
+	 top: 3560px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 316px;
+	 z-index:123;
+} 
+
+ #customimage 
+{ 
+	 left: 719px; 
+	 top: 3529px; 
+	 position: absolute; 
+	 width: 408px;
+	 height: 408px;
+	 z-index:124;
+} 
+
+ #Custom 
+{ 
+	 left: 890px; 
+	 top: 3904px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 17px;
+	 z-index:125;
+} 
+
+ #Rectangle9_6 
+{ 
+	 left: 903px; 
+	 top: 3934px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 4px;
+	 z-index:126;
+} 
+
+ #Ifyourchildrunsaroun_0 
+{ 
+	 left: 758px; 
+	 top: 3953px; 
+	 position: absolute; 
+	 width: 324px;
+	 height: 98px;
+	 z-index:127;
+} 
+
+ #Rectangle6_6 
+{ 
+	 left: 772px; 
+	 top: 4089px; 
+	 position: absolute; 
+	 width: 300px;
+	 height: 64px;
+	 z-index:128;
+} 
+
+ #SHOPCUSTOM 
+{ 
+	 left: 876px; 
+	 top: 4115px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 13px;
+	 z-index:129;
+} 
+
+ #Rectangle1copy2 
+{ 
+	 left: -4px; 
+	 top: 117px; 
+	 position: absolute; 
+	 width: 1407px;
+	 height: 66px;
+	 z-index:130;
+} 
